@@ -1,0 +1,29 @@
+
+.box {
+    padding: 100px;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+  display: inline-block;
+  float: left;
+}
+
+button {
+    padding: 0 20px;
+}
+
+.submit {
+    margin-left: 250px;
+}
